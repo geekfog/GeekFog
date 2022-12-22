@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on incorporating leadership with the technical (technical leadership!)
 - 📫 I am reachable via LinkedIn.
 - 
-![rg-red-blk-1024](https://user-images.githubusercontent.com/38358141/209209519-7fdbe901-a4d0-4903-bc60-c443bb0de76d.png)
+
+![rg-ocn-blk-0512](https://user-images.githubusercontent.com/38358141/209210059-78fd32d9-ba4c-4673-8891-60ad28104846.png)
