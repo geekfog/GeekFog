@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on incorporating leading technology with business-based solutions
 - 📫 I am reachable via [LinkedIn](https://www.linkedin.com/in/hansdickel)
 
-![rg-nautical](https://avatars.githubusercontent.com/u/38358141)
+<img src="https://avatars.githubusercontent.com/u/38358141" alt="RecursiveGeek Logo" width="128">
+
